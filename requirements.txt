@@ -1,0 +1,7 @@
+streamlit==1.38.0
+streamlit-chat==0.0.2
+pandas==2.2.2
+sqlite3  # Included in Python standard library, no need to install separately
+google-auth-oauthlib==1.2.1
+google-auth-httplib2==0.2.0
+google-api-python-client==2.140.0
